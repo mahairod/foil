@@ -5,9 +5,9 @@ Release: 0
 Summary: Yet another glib-style crypto API
 Group: Development/Libraries
 License: BSD
-Vendor: slava
-URL: https://github.com/monich/foil
-Source: %{name}-%{version}.tar.bz2
+Vendor: slava, mahairod
+URL: https://github.com/mahairod/foil
+Source0: %{name}-%{version}.tar.bz2
 
 %define glib_version 2.32
 %define libglibutil_version 1.0.68
